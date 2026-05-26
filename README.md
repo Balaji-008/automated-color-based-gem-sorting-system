@@ -195,7 +195,5 @@ graph TD
 ## 👤 Author
 
 **Balaji Rayudu S**  
-B.Tech Electronics & Computers Engineering, Semester IV  
+B.Tech Electronics & Computers Engineering  
 Amrita Vishwa Vidyapeetham, Bengaluru
-
-*Course: ESDA (Electronic Systems Design & Automation)*
