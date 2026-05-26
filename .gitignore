@@ -1,0 +1,23 @@
+# Video files (too large for GitHub)
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Document drafts & extra files (keep repo clean of heavy drafts)
+*.docx
+*.doc
+*Baisani*
+
+# Local OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local IDEs
+.vscode/
+.idea/
