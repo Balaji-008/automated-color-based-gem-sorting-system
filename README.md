@@ -53,7 +53,7 @@
 graph TD
     Hopper["Angled Hopper Tube (60°)"] --> Disk["Singulation Disk (BO Motor @ 18 RPM)"]
     Disk --> Belt["Conveyor Belt (12V Motor @ 110 mm/s)"]
-    Belt --> Sensor["TCS34725 Color Sensor (mid-belt)"]
+    Belt --> Sensor["TCS34725 Color Sensor"]
     Sensor --> Ramp["35° Guide Ramp"]
     Ramp --> Carousel["7-Bin Servo Carousel (SG90)"]
 ```
